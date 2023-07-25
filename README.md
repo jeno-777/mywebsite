@@ -1,2 +1,2 @@
 # mywebsite
-it is just formal project
+it is just demo project on js which is linked in html.
